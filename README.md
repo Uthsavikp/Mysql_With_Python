@@ -1,1 +1,1 @@
-created a clinic database
+created clinic database and did some curd opentinons, used view, index

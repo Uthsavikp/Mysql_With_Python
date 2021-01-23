@@ -1,1 +1,1 @@
-created a database
+created a clinic database
